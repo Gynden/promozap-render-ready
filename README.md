@@ -1,0 +1,1 @@
+# promozap-render-ready
